@@ -2,8 +2,8 @@
 
 ## 原始仓库来源
 
-感谢开源： https://github.com/bubbliiiing/unet-pytorch.git
+感谢开源： https://www.kaggle.com/code/tantanhoang/carvana-challenge-unet-resnet34-backbone/log?scriptVersionId=284224224
 
 ## 主要修改
 
-将原代码的上采样修改为ConvTranspose2d
+将原代码的主干改为resnet50
